@@ -1,4 +1,4 @@
-$Team Stats (javascript)$
+
 
 const team = {
   _players: [
